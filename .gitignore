@@ -1,4 +1,2 @@
 *.ipynb_checkpoints
-*dtsci-tools-master/
-*ferramentas-python-master/
-*Introducao-ao-Jupyter-master/
+dados/olist/*.csv
