@@ -3,6 +3,7 @@ import pandas as pd
 import seaborn as sns
 import numpy as np
 
+
 def func1(value1:int,value2:int) -> int:
     
     """
